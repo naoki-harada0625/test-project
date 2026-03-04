@@ -1,0 +1,8 @@
+{
+  "name": "test-project",
+  "version": "1.0.0",
+  "description": "ToDoアプリ",
+  "scripts": {
+    "deploy": "git push -u origin claude/github-pages-deploy-O2VnD"
+  }
+}
